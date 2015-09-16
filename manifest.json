@@ -1,0 +1,18 @@
+{
+	"manifest_version": 2,
+	"name": "Woky Misc",
+	"description": "Make Chrome better.",
+	"version": "0.1",
+	"background": {
+		"scripts": ["background.js"],
+		"persistent": false
+	},
+	"commands": {
+		"new-tab": {
+			"suggested_key": {
+				"default": "Ctrl+T"
+			},
+			"description": "Open new tab next to current tab"
+		}
+	}
+}
