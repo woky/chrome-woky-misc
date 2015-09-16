@@ -1,7 +1,7 @@
 {
 	"manifest_version": 2,
 	"name": "Woky Misc",
-	"description": "Make Chrome better.",
+	"description": "Miscellaneous Chrome stuff.",
 	"version": "0.1",
 	"background": {
 		"scripts": ["background.js"],

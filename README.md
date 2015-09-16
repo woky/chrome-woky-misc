@@ -1,9 +1,13 @@
 Chrome Woky Misc
 ================
 
+Miscellaneous Chrome stuff.
+
 * Open new tab next to current tab
 
-  You need to assign it a shortcut (e.g. `Ctrl+T`) in `chrome://extensions`.
+  You need to assign it a shortcut (e.g. `Ctrl+T`) in `chrome://extensions`. You
+  should allow the extension in incognito mode or `Ctrl-T` (or whichever
+  shortcut you chose) won't work there.
 
 License
 -------
